@@ -1,0 +1,17 @@
+{
+  "name": "@jarvisniu/ua",
+  "version": "0.1.0",
+  "description": "Detect web environment by user agent",
+  "main": "ua.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarvisniu/ua.git"
+  },
+  "keywords": ["user agent", "ua"],
+  "author": "Jarvis Niu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jarvisniu/ua/issues"
+  },
+  "homepage": "https://github.com/jarvisniu/ua#readme"
+}
