@@ -20,6 +20,8 @@ Use:
 
 ```js
 ua.isWindows
+// extending
+ua.isOpera = ua.value.incluces('OPR/')
 ```
 
 ## API
@@ -29,6 +31,9 @@ ua.isWindows
 - `isWindows`
 - `isMacOS`
 - `isLinux`
+- `isUbuntu`
+- `isAndroid`
+- `isIOS`
 
 ### Kernel
 
@@ -41,6 +46,8 @@ ua.isWindows
 ### Platform
 
 - `isElectron`
+- `isDesktop`
+- `isMobile`
 
 ### App
 

@@ -1,6 +1,6 @@
 {
   "name": "@jarvisniu/ua",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Detect web environment by user agent",
   "main": "ua.js",
   "repository": {
